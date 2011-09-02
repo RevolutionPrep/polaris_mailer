@@ -15,10 +15,10 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "polaris_mailer"
-  gem.homepage = "http://github.com/Atsuya Takagi/polaris_mailer"
+  gem.homepage = "http://github.com/atsuya/polaris_mailer"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{polaris_mailer}
+  gem.description = %Q{polaris_mailer}
   gem.email = "atsuya.takagi@revolutionprep.com"
   gem.authors = ["Atsuya Takagi"]
   # dependencies defined in Gemfile
